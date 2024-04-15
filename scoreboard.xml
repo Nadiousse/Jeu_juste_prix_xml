@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScoreBoard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scores>
+    <ScoreEntry>
+      <Name>Margot</Name>
+      <Score>5</Score>
+    </ScoreEntry>
+    <ScoreEntry>
+      <Name>Nadejda</Name>
+      <Score>6</Score>
+    </ScoreEntry>
+    <ScoreEntry>
+      <Name>Thomas</Name>
+      <Score>10</Score>
+    </ScoreEntry>
+    <ScoreEntry>
+      <Name>Nadejda</Name>
+      <Score>12</Score>
+    </ScoreEntry>
+    <ScoreEntry>
+      <Name>Pierre-Louis</Name>
+      <Score>15</Score>
+    </ScoreEntry>
+    <ScoreEntry>
+      <Name>Nadejda</Name>
+      <Score>20</Score>
+    </ScoreEntry>
+  </Scores>
+</ScoreBoard>
